@@ -1,3 +1,6 @@
 __pycache__
 encrypted_files
 decrypted_files
+sign.elgamal
+sign.gost
+sign.rsa
